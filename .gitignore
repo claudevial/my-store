@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+MASTER_CONTEXT.md
+.claude/settings.local.json
+__pycache__/
+*.pyc
+outputs/
+output/
+references/*
+!references/README.md
